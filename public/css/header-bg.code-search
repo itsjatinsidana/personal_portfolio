@@ -1,0 +1,9 @@
+# Query: header-bg
+# ContextLines: 1
+
+1 result - 1 file
+
+public\css\styles.css:
+  11402    color: #fff;
+  11403:   background-image: url("../assets/img/banner.jpg");
+  11404    background-repeat: no-repeat;
